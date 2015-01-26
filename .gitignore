@@ -1,0 +1,11 @@
+syntax:glob
+target
+dist
+lib_managed
+src_managed
+project/boot
+*.iml
+.idea
+*.class
+*~
+.tmp
